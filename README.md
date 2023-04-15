@@ -1,6 +1,10 @@
 # doppel
 DoppeLink
 
+Document
+
+
+
 Github
 https://github.com/eyepyon/doppel
 
@@ -16,10 +20,10 @@ https://www.mysql.com/jp/
 https://www.phpmyadmin.net/
 
 ▼USE
-AirStack
-https://app.airstack.xyz/
-https://ethglobal.com/events/tokyo/prizes#airstack
 
+Polygon 
+mumbai test net
+https://ethglobal.com/events/tokyo/prizes#polygon
 
 SuperFluid
 Pay-per-use
@@ -29,6 +33,10 @@ WorldCoin
 Login
 https://ethglobal.com/events/tokyo/prizes#worldcoin
 
+Polygon zkEVM
+zero-knowledge
+https://ethglobal.com/events/tokyo/prizes#polygon
+
 zkBob
 zero-knowledge
 https://ethglobal.com/events/tokyo/prizes#zkbob
@@ -37,5 +45,6 @@ Scroll
 zero-knowledge
 https://ethglobal.com/events/tokyo/prizes#scroll
 
-
+Curvegrid NFT
+https://ethglobal.com/events/tokyo/prizes#curvegrid
 
