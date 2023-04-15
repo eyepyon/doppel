@@ -1,0 +1,12 @@
+/* TODO: Use an alternative to avoid the extra request to Google (e.g. hosting ourselves, or local file)  */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&family=Sora:wght@600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+	input[type='number']::-webkit-inner-spin-button,
+	input[type='number']::-webkit-outer-spin-button {
+		@apply appearance-none;
+	}
+}

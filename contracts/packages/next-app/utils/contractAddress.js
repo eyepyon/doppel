@@ -1,0 +1,1 @@
+export const greeterAddress = "0x2A281D7f451f09AB7D6c828aC02F92dAEFEf1b8e"
